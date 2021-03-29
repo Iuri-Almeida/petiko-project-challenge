@@ -164,9 +164,11 @@ const completeForm = async () => {
 
                 // alertar o usuário
                 error()
-
+                
+                // resetando os dados do form
                 formTAG.reset()
-
+                
+                // colocar tudo como não pronto para enviar
                 putColor(false)
 
                 return
