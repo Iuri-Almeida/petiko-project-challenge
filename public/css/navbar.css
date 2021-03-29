@@ -1,0 +1,13 @@
+.navbar {
+    background: var(--light-blue);
+}
+
+.navbar-text {
+    color: var(--dark-blue);
+}
+
+.navbar div .img-fluid {
+    border-radius: 50%;
+
+    border: 2px solid var(--dark-blue);
+}
