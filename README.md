@@ -38,7 +38,7 @@ Acabei conseguindo ir além e realizei a funcionalidade extra, então a soluçã
 
 ## 🛠 Linguagens e ferramentas ##
 
-Todas as linguagens e ferramentas usadas na realização dos testes:
+Todas as linguagens e ferramentas usadas na realização do projeto:
 
 [<img align="left" alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/60857927/108612406-41873c00-73c7-11eb-8c19-ab379a124cf2.png" />][html]
 [<img align="left" alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/60857927/108612516-3aacf900-73c8-11eb-9c4b-7c6bdaf27d46.png" />][css]
