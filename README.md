@@ -100,7 +100,7 @@ $ git clone https://github.com/Iuri-Almeida/petiko-project-challenge.git
 # Acesse a pasta do projeto
 $ cd petiko-project-challenge
 
-# Abrir no Visual Studio Code
+# Iniciar o servidor
 $ php artisan serve
 
 # Servidor estará rodando em http://127.0.0.1:8000 por padrão.
