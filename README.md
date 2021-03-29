@@ -19,7 +19,6 @@
 </div>
 
 <br />
-<br />
 
 <div id = "descricao">
 
@@ -33,7 +32,6 @@ Acabei conseguindo ir além e realizei a funcionalidade extra, então a soluçã
 
 </div>
 
-<br />
 <br />
 
 <div id = "tecnologias">
@@ -83,7 +81,6 @@ $ cd /Applications/XAMPP/xamppfiles/htdocs/
 </div>
 
 <br />
-<br />
 
 <div id = "executando">
 
@@ -111,7 +108,6 @@ $ php artisan serve
 
 </div>
 
-<br />
 <br />
 
 <div id = "prazer">
